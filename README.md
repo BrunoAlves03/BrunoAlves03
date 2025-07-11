@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**BrunoAlves03/BrunoAlves03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá 
 
-Here are some ideas to get you started:
+Sou Bruno, estudante de Engenharia de Controle e Automação no Instituto Federal de São Paulo (IFSP).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Neste espaço, compartilho parte do material desenvolvido durante minha atuação como bolsista de monitoria na área de Inteligência Artificial. Faço parte do grupo de pesquisa [EAILAB (Embedded Artificial Intelligence Laboratory)](https://github.com/EAILAB-IFSP), onde desenvolvemos pesquisas voltadas à aplicação de Inteligência Artificial embarcada, também conhecida como **TinyML**.
+
+## Repositórios em destaque
+
+Abaixo estão alguns dos materiais disponíveis neste perfil:
+
+- [**AI_Course**](https://brunoalves03.github.io/AI_Course/): Material criado pelo <a href="https://www.linkedin.com/in/arnaldocarvalho/">Dr. Arnaldo de Carvalho Junior</a>, com meu auxílio, com o objetivo de oferecer aos alunos uma introdução à disciplina de Inteligência Artificial (IA) aplicada à Automação (2025).
+
+- [**Expert_Systems**](https://eailab-ifsp.github.io/Expert_Systems/): Conteúdo da disciplina de pós-graduação Sistemas Especialistas Aplicados à Engenharia, desenvolvido pelo <a href="https://www.linkedin.com/in/arnaldocarvalho/">Dr. Arnaldo de Carvalho Junior</a> com o meu apoio.
+
+- [**Roteiro_ML_Edge_Impulse**](https://eailab-ifsp.github.io/Roteiro_ML_Edge_Impulse/): Roteiro introdutório sobre a plataforma **Edge Impulse**, apresentando seus principais recursos e funcionalidades para projetos com aprendizado de máquina em dispositivos embarcados.
+
+---
+
+Sinta-se à vontade para explorar os repositórios e acompanhar os projetos em desenvolvimento!
